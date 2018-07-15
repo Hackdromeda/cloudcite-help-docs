@@ -6,7 +6,7 @@ description: Get answers to commonly asked questions
 
 ## What is CloudCite?
 
-CloudCite is a free, automatic, and ad-free bibliography generator for popular citation styles such as MLA 8th Edition, APA, Turabian, Harvard, IEEE, and Chicago. CloudCite provides a clean, simple, and distraction-free environment for when you really need to create bibliographies and focus on research. CloudCite processes citations in the cloud so you never have to create citations manually again. Learn more about our commitment to a privacy and a distraction-free bibliography generation environment on our about page.
+CloudCite is a free, automatic, and ad-free bibliography generator for popular citation styles such as MLA 8th Edition, APA, Turabian, Harvard, IEEE, Vancouver, DIN 1505-2, and Chicago. CloudCite provides a clean, simple, and distraction-free environment for when you really need to create bibliographies and focus on research. CloudCite processes citations in the cloud so you never have to create citations manually again. Learn more about our commitment to a privacy and a distraction-free bibliography generation environment on our about page.
 
 ## Why should I use CloudCite over other bibliography generators?
 
